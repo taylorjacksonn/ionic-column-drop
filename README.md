@@ -4,5 +4,5 @@ This template follows a responsive design pattern called column drop. The templa
 
 1. install ionic
   > npm install -g ionic
-2. run the app in your browser
+2. run the app in your browser. run this in your command line.
   > ionic serve
