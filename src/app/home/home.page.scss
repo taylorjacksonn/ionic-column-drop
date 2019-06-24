@@ -1,19 +1,11 @@
-#invis-toolbar {
-
-}
 
 .categories { 
-    // background-color: blue;
     height: 250px;
-    // height: 200px;
+    align-content: center;
 }
 
 #c1 { background-color: lightblue; }
 #c2 { background-color: lightseagreen; }
 #c3 { background-color: lightcyan; }
 
-@media screen and (min-width: 800px) {
-    .categories {
-    //    size: 4 !important;
-    }
-}
+
