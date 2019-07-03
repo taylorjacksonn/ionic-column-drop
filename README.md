@@ -11,5 +11,3 @@ This template follows a responsive design pattern called column drop. The templa
 2. run the app in your browser. run this in your command line.
   > ionic serve
 
-if missing angular build modules:
-> npm install --save-dev @angular-devkit/build-angular
